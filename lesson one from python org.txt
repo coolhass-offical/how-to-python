@@ -1,0 +1,4 @@
+https://www.python.org/about/gettingstarted/https://www.python.org/about/gettingstarted/
+the website of python.org
+
+tells me nothing
