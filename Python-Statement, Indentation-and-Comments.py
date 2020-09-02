@@ -25,3 +25,5 @@ f = 3
 g = 1
 h = 2
 i = 3
+
+print(a, b, c, d, e, f, g, h, i, colors)
