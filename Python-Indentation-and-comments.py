@@ -10,8 +10,8 @@ for i in range(1, 11):
     print(i)
     if i == 5:
         break
-"""this is another way to write a comment"""
 
-"""you can also
-do it like
-this"""
+# We can have comments that extend up to multiple lines.
+# One way is to use the hash( # ) symbol at the beginning of each line.
+
+""" Another way of doing this is to use triple quotes """
