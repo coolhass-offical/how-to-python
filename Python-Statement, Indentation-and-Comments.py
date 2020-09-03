@@ -27,3 +27,10 @@ h = 2
 i = 3
 
 print(a, b, c, d, e, f, g, h, i, colors)
+
+
+#triple quotes can also be used while writing docstrings
+def double(num):
+    """Function to double the value"""
+    return 2*num
+print(double.__doc__)
